@@ -3,7 +3,11 @@
   "version": "0.1.1",
   "private": true,
   "description": "One npm script name for the same task in every project.",
-  "author": "Vitalii Balabanov",
+  "author": {
+    "name": "Vitalii Balabanov",
+    "email": "tertiumnon@gmail.com",
+    "url": "https://tertiumnon.github.io"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

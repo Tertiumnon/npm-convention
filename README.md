@@ -6,7 +6,7 @@ Repository: https://github.com/Tertiumnon/npm-convention
 
 ## Required fields
 
-- `package.json`: `name`, `version`, `description` (one sentence), `author`, `license`, `repository` (the GitHub URL), and the release and `version` scripts. Also set `homepage` and `keywords` so the package is findable on npmjs.
+- `package.json`: `name`, `version`, `description` (one sentence), `author` (an object with `name`, `email` and `url`), `license`, `repository` (the GitHub URL), and the release and `version` scripts. Also set `homepage` and `keywords` so the package is findable on npmjs.
 
 ## Environments
 
