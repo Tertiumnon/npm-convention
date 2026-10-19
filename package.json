@@ -19,7 +19,6 @@
     "release:patch": "gith release --patch",
     "release:minor": "gith release --minor",
     "release:major": "gith release --major",
-    "version": "gith changelog",
-    "changelog": "gith changelog"
+    "version": "gith changelog"
   }
 }
