@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 - 2026-10-19
+
+- docs: author email and site in package.json
+
 ## 0.1.1 - 2026-10-19
 
 - chore: remove changelog script, the version script writes the changelog
