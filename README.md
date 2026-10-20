@@ -1,5 +1,7 @@
 # NPM commands convention
 
+One npm script name for the same task in every project.
+
 Names for `package.json` scripts, so the same task has the same name in every project. `deploy:prod` means the same everywhere.
 
 Repository: https://github.com/Tertiumnon/npm-convention
