@@ -1,3 +1,20 @@
 type: conventions
-publish_on:
+slug: npm-convention
+listed_on:
   - https://tertiumnon.github.io
+display_name:
+  en: "NPM Commands Convention"
+summary:
+  en: "One npm script name for the same task in every project."
+languages:
+  - en
+default_language: en
+audience:
+  - developers
+entry_point: README.md
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - maintainer
+    github: Tertiumnon
